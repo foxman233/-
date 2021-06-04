@@ -1,0 +1,5 @@
+﻿  game.cpp
+  三子棋.cpp
+  正在生成代码...
+C:\Users\吴志杰\source\repos\test 4_16\test 4_16\game.cpp(98): warning C4715: “iswin”: 不是所有的控件路径都返回值
+  test 4_16.vcxproj -> C:\Users\吴志杰\source\repos\test 4_16\Debug\test 4_16.exe

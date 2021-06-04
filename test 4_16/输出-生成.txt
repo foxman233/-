@@ -1,0 +1,7 @@
+﻿已启动生成…
+1>------ 已启动生成: 项目: test 4_16, 配置: Debug Win32 ------
+1>game.cpp
+1>C:\Users\吴志杰\source\repos\test 4_16\test 4_16\game.cpp(98): warning C4715: “iswin”: 不是所有的控件路径都返回值
+1>test 4_16.vcxproj -> C:\Users\吴志杰\source\repos\test 4_16\Debug\test 4_16.exe
+1>已完成生成项目“test 4_16.vcxproj”的操作。
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
