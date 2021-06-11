@@ -1,0 +1,6 @@
+﻿  game.cpp
+  test 4_10.c
+test 4_10.obj : error LNK2001: 无法解析的外部符号 _Initboard
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl Initboard(char (* const)[3],int,int)" (?Initboard@@YAXQAY02DHH@Z)
+C:\Users\吴志杰\source\repos\test 4_10\Release\test 4_10.exe : fatal error LNK1120: 1 个无法解析的外部命令

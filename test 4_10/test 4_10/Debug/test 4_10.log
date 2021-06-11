@@ -1,0 +1,21 @@
+﻿  game.cpp
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,27): error C2143: 语法错误: 缺少“]”(在“=”的前面)
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,27): error C2440: “默认参数”: 无法从“int”转换为“char []”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,27): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,27): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,30): error C2059: 语法错误:“]”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,32): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,35): error C2059: 语法错误:“]”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7,54): error C2059: 语法错误:“)”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,27): error C2143: 语法错误: 缺少“]”(在“=”的前面)
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,27): error C2440: “默认参数”: 无法从“int”转换为“char []”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,27): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,27): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,27): error C2572: “Initboard”: 重定义默认参数 : 参数 1
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\kepp.h(7): message : 参见“Initboard”的声明
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,30): error C2059: 语法错误:“]”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,32): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,35): error C2059: 语法错误:“]”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(3,54): error C2059: 语法错误:“)”
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(4,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\吴志杰\source\repos\test 4_10\test 4_10\game.cpp(4,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
